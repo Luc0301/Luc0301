@@ -1,5 +1,10 @@
 ### Hello! My name is Luciano Zurro Stelle 👋
 
+Hi, my name is Luciano Zurro Stelle, I'm 24 years old and born in Curitiba/Paraná in Brazil.
+I graduated in highschool in Colégio Positivo. I am now studying digital games technology at PUCPR. 
+I've been passionate about game development since 2019, which gives me 6 years of experience in the field.
+Below is some information about my work.
+
 ### Portfolio
 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://luc0301.itch.io)
